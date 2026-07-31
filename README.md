@@ -46,6 +46,7 @@ Screenshots
 
 - Employee-facing submission form
 - Full workflow canvas
+- Emails (Rejection email, Approval Email, Manager email to reject to approve)
 - Leave request log (Google Sheets)
 - Leave balance tracker (Google Sheets)
 - Rejection message shown to employee on failed validation
