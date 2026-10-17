@@ -44,12 +44,34 @@ Tech stack
 
 Screenshots
 
-- Employee-facing submission form
-- Full workflow canvas
-- Emails (Rejection email, Approval Email, Manager email to reject to approve)
-- Leave request log (Google Sheets)
-- Leave balance tracker (Google Sheets)
-- Rejection message shown to employee on failed validation
+Employee-facing submission form
+![Employee submission form](leave-submission-form.png)
+
+ Full workflow canvas
+![Full workflow canvas](full-workflow.png)
+
+ EMAILS
+
+Manager Email (approve / reject links)
+
+![Manager email to approve or reject](manager-email.png)
+
+Approval Email to Employee
+
+![Approval email to employee](approval-email.png)
+
+Rejection Email to Employee
+
+![Rejection email to employee](rejection-email.png)
+
+ Leave Request Log (Google Sheets)
+![Leave request log](leave-request-log.png)
+
+ Leave Balance Tracker (Google Sheets)
+![Leave balance tracker](leave-balance-tracker.png)
+
+Rejection message shown to employee on failed validation
+![Failed validation message](failed-validation.png)
 
 Notes
 
