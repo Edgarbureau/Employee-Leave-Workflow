@@ -53,4 +53,4 @@ Screenshots
 
 Notes
 
-This is a pure form or logic-based automation, that is deliberately built without any AI/LLM component, to demonstrate structured business-process automation as distinct from AI-agent workflows.
+This is purely a logic-based automation, built deliberately without any AI/LLM component, to demonstrate structured business-process automation as distinct from AI-agent workflows.
